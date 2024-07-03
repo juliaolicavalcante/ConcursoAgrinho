@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-image: url(/Rectangle\ 86\ \(2\).png);
+    opacity: 0.6;
+    min-width: 200px;
+}
