@@ -8,3 +8,7 @@ section{
     opacity: 0.6;
     min-width: 200px;
 }
+
+h2{
+    opacity: 100;
+}
