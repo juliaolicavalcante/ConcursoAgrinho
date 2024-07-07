@@ -178,3 +178,7 @@ nav a:hover::after {
 .dentro-img{
     margin: 5px;
 }
+
+.dentro-img img:hover{
+    scale: 2;
+}
