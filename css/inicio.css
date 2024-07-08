@@ -144,35 +144,3 @@ nav a:hover::after {
     font-size: 20px;
     padding: 25px;
 }
-
-.imagens{
-    display: grid;
-    grid-template-columns: 37% 34% 29%;
-
-}
-.imagens1{
-    display: grid;
-    grid-template-rows: 27% 28% 41%;
-    flex-direction: column;
-    align-items: center;
-    align-content: space-between;
-}
-
-.imagens2{
-    display: grid;
-    grid-template-rows: 50% 34% 16%;
-}
-
-.imagens3{
-    display: grid;
-    grid-template-rows: 16% 25% 36% 23%;
-}
-
-.dentro-img img{
-    width: 100%;
-
-}
-
-.dentro-img{
-    margin: 5px;
-}
