@@ -163,11 +163,11 @@ nav a:hover::after {
 .card img {
     width: 100%;
     display: block;
-
+    border-radius: 20px;
 }
 
 .card p {
     color: aqua;
     font-size: 10px;
-    border-radius: 20px;
+
 }
