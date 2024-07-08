@@ -148,9 +148,11 @@ nav a:hover::after {
 .imagens{
     display: grid;
     grid-template-columns: 37% 34% 29%;
+    grid-template-rows: ;
 }
 .imagens1{
-    display: flex;
+    display: grid;
+    grid-template-rows: 33% 33% 33%;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
