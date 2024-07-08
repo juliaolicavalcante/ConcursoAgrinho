@@ -183,5 +183,5 @@ nav a:hover::after {
 }
 
 .card:hover img{
-    scale: 1.5;
+    scale: 1.3;
 }
