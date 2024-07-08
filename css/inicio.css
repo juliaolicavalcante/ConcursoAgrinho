@@ -165,7 +165,6 @@ nav a:hover::after {
 .card img {
     width: 100%;
     display: block;
-    border: #000000 solid 1px;
 }
 
 .card p {
@@ -178,5 +177,4 @@ nav a:hover::after {
 
 .card:hover{
     box-shadow: 0 0 8px #fff;
-    border: solid #ebe39c 1px;
 }
