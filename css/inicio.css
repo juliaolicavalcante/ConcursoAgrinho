@@ -191,7 +191,7 @@ nav a:hover::after {
     margin: 20px;
 }
 
-.rural{
+.urbanizaçao{
     margin: 10px;
 }
 
@@ -206,4 +206,8 @@ nav a:hover::after {
     border-bottom: 2px solid #000000;
     margin: auto;
     padding-top: 20px;
+}
+
+.exodo{
+    margin: 10px;
 }
