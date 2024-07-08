@@ -177,4 +177,5 @@ nav a:hover::after {
 .card:hover{
     box-shadow: 0 0 8px #fff;
     border-radius: 20px;
+    border: solid #fceb5a 1px;
 }
