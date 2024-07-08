@@ -191,18 +191,17 @@ nav a:hover::after {
 }
 
 .rural{
-    margin: 10px;
+    margin: 20px;
 }
 
 .texto-rural{
     text-align: justify;
-    margin: 20px;
-
+    margin: 15px 0;
 }
 
 .linha{
     width: 75%;
     border-bottom: 2px solid #000000;
     margin: auto;
-    padding-bottom: 20px;
+    padding-top: 20px;
 }
