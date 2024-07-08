@@ -198,3 +198,11 @@ nav a:hover::after {
     text-align: justify;
     margin: 15px 0;
 }
+
+.linha{
+    width: 75%;
+    border-bottom: 2px solid #000000;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
