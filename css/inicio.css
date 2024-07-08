@@ -196,4 +196,5 @@ nav a:hover::after {
 
 .texto-rural{
     text-align: justify;
+    margin: 7px;
 }
