@@ -167,10 +167,7 @@ nav a:hover::after {
 
 .imagens3{
     display: grid;
-    grid-template-rows: 27% 28% 41%;
-    flex-direction: column;
-    align-items: center;
-    align-content: space-between;
+    grid-template-rows: 16% 25% 36% 23%;
 }
 
 .dentro-img img{
