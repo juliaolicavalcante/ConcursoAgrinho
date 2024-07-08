@@ -160,11 +160,14 @@ nav a:hover::after {
     padding: 0;
     border-radius: 20px;
     overflow: hidden;
+    transition: all 0.3s linear;
 }
 
 .card img {
     width: 100%;
     display: block;
+    transition: all 0.3s linear;
+
 }
 
 .card p {
