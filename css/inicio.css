@@ -148,10 +148,12 @@ nav a:hover::after {
 .container{
     display: flex;
 }
-.col img{
-    width: 100%;
-}
 
 .col{
         margin: 10px;
+}
+
+.card{
+    border-radius: 20px;
+    width: 100%;
 }
