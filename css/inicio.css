@@ -185,3 +185,7 @@ nav a:hover::after {
 .card:hover img{
     scale: 1.2;
 }
+
+.subtitulo{
+    text-align: center;
+}
