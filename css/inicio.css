@@ -193,3 +193,7 @@ nav a:hover::after {
 .rural{
     margin: 10px;
 }
+
+.texto-rural{
+    text-align: justify;
+}
