@@ -172,7 +172,7 @@ nav a:hover::after {
 
 .card p {
     color: aqua;
-    font-size: 30px;
+    font-size: 10px;
     position: absolute;
     bottom: 0;
     right: 20px;
