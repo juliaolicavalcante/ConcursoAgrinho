@@ -189,3 +189,7 @@ nav a:hover::after {
 .subtitulo{
     text-align: center;
 }
+
+.rural{
+    margin: 10px;
+}
