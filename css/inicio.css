@@ -158,12 +158,13 @@ nav a:hover::after {
 .card {
     position: relative;
     padding: 0;
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 .card img {
     width: 100%;
     display: block;
-    border-radius: 20px;
 }
 
 .card p {
@@ -176,6 +177,5 @@ nav a:hover::after {
 
 .card:hover{
     box-shadow: 0 0 8px #fff;
-    border-radius: 20px;
     border: solid #fceb5a 1px;
 }
