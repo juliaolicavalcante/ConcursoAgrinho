@@ -148,7 +148,7 @@ nav a:hover::after {
 .imagens{
     display: grid;
     grid-template-columns: 37% 34% 29%;
-    grid-template-rows: ;
+
 }
 .imagens1{
     display: grid;
