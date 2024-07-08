@@ -145,15 +145,13 @@ nav a:hover::after {
     padding: 25px;
 }
 
-.imagens{
+.container{
     display: flex;
-    grid-template-columns: 1fr 1fr 1fr;
 }
-
-.imagem img{
+.col img{
     width: 100%;
 }
 
-.imagem{
+.col{
         margin: 10px;
 }
