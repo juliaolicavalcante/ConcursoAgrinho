@@ -155,6 +155,16 @@ nav a:hover::after {
 
 .card{
     border-radius: 20px;
-    width: 100%;
     padding: 0;
+}
+
+.card img{
+    width: 100%;
+    display: block;
+
+}
+
+.card p {
+    color: aqua;
+    font-size: 10px;
 }
