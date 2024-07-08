@@ -144,3 +144,11 @@ nav a:hover::after {
     font-size: 20px;
     padding: 25px;
 }
+
+.imagens{
+    display: flex;
+}
+
+.imagem img{
+    width: 100%;
+}
