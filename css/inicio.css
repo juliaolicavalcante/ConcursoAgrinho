@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +9,8 @@
 
 body {
     background-color: #D2D2D2;
-    font-family: "Comic Neue", cursive;}
+    font-family: "Comic Neue", cursive;
+}
 
 header {
     background-color: #184144;
@@ -139,26 +141,26 @@ nav a:hover::after {
     font-size: 20px;
 }
 
-.inicio h2{
+.inicio h2 {
     text-align: center;
     font-size: 20px;
     padding: 25px;
 }
 
-.container{
+.container {
     display: flex;
 }
 
-.col{
-        margin: 10px;
+.col {
+    margin: 10px;
 }
 
-.card{
-    border-radius: 20px;
+.card {
+
     padding: 0;
 }
 
-.card img{
+.card img {
     width: 100%;
     display: block;
 
@@ -167,4 +169,5 @@ nav a:hover::after {
 .card p {
     color: aqua;
     font-size: 10px;
+    border-radius: 20px;
 }
