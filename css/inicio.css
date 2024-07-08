@@ -152,5 +152,8 @@ nav a:hover::after {
 
 .imagem img{
     width: 100%;
-    margin: 10px;
+}
+
+.imagem{
+        margin: 10px;
 }
