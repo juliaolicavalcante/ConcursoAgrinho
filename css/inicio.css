@@ -188,15 +188,17 @@ nav a:hover::after {
 
 .subtitulo{
     text-align: center;
+    margin: 20px;
 }
 
 .rural{
-    margin: 20px;
+    margin: 10px;
 }
 
 .texto-rural{
     text-align: justify;
     margin: 15px 0;
+    
 }
 
 .linha{
