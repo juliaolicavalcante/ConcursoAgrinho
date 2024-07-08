@@ -182,3 +182,7 @@ nav a:hover::after {
 .card:hover{
     box-shadow: 0 0 8px #585858;
 }
+
+.card:hover img{
+    scale: 2;
+}
