@@ -211,3 +211,7 @@ nav a:hover::after {
 .exodo{
     margin: 10px;
 }
+
+.exodo h4{
+    margin-top: 15px;
+}
