@@ -138,3 +138,10 @@ nav a:hover::after {
     color: #ffffff;
     font-size: 20px;
 }
+
+.paraiba{
+    margin: 20px;
+    background-color: #3a787c;
+    padding: 10px;
+    
+}
