@@ -176,6 +176,7 @@ nav a:hover::after {
     position: absolute;
     bottom: 0;
     font-size: 3px;
+    right: 0;
 }
 
 .card:hover{
