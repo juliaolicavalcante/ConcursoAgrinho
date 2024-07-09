@@ -177,6 +177,7 @@ nav a:hover::after {
     position: absolute;
     inset: 0;
     background-image: url(/img/gravata.jpg);
+    padding: 7px;
     background-size: cover;
     background-position: center;
     z-index: -1;
