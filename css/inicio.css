@@ -165,7 +165,7 @@ nav a:hover::after {
 }
 
 .card img {
-    width: 100%;
+    width: 90%;
     display: block;
     transition: all 0.5s linear;
 }
