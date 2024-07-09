@@ -161,3 +161,7 @@ nav a:hover::after {
     opacity: 0.5;
     border-radius: 20px;
   }
+
+  .mapa-paraiba{
+    width: 100%;
+  }
