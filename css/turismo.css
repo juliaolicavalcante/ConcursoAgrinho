@@ -144,5 +144,6 @@ nav a:hover::after {
     background-image: url(/img/paraiba.webp);
     padding: 10px;
     background-position: center;
+    opacity: 0.4;
 
 }
