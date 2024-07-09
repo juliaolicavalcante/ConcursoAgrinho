@@ -146,6 +146,7 @@ nav a:hover::after {
     position: relative;
     margin: 10px;   
     padding: 15px;
+    flex-direction: column;
 }
 
 .paraiba::before {
@@ -157,4 +158,5 @@ nav a:hover::after {
     background-position: center;
     z-index: -1;
     opacity: 0.5;
+    border-radius: 20px;
   }
