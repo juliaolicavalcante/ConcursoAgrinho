@@ -150,6 +150,10 @@ nav a:hover::after {
     border-radius: 20px;
 }
 
+.paraiba p{
+    margin: 10px 0;
+}
+
 .gravata{
     display: grid;
     grid-template-rows: 60% 40%;
