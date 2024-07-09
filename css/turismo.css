@@ -152,9 +152,9 @@ nav a:hover::after {
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url("preview.jpg");
+    background-image: url(/img/paraiba.webp);
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
     z-index: -1;
     opacity: 0.5;
   }
