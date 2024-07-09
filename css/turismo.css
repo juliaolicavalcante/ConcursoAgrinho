@@ -150,7 +150,7 @@ nav a:hover::after {
 
 }
 
-  .gravata{
+.gravata{
     display: grid;
     grid-template-rows: 60% 40%;
     align-items: center;
