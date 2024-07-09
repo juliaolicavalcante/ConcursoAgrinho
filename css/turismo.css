@@ -145,5 +145,5 @@ nav a:hover::after {
     padding: 10px;
     background-position: center;
     opacity: 0.4;
-
+    border-radius: 20px;
 }
