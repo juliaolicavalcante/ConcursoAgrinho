@@ -213,10 +213,6 @@ nav a:hover::after {
 }
 
 .texto-exodo{
-    margin: 0;
-}
-
-.exodo h4{
-    margin-top: 15px;
+    margin: 10px 0;
 }
 
