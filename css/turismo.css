@@ -150,11 +150,6 @@ nav a:hover::after {
     border-radius: 20px;
 }
 
-.mapa-paraiba{
-    margin: auto;
-    padding: 10px;
-}
-
 .gravata{
     display: grid;
     grid-template-rows: 60% 40%;
