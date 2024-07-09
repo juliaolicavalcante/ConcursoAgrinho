@@ -163,7 +163,7 @@ nav a:hover::after {
   }
   .gravata{
     display: grid;
-    grid-template-rows: 60% 40%;
+    grid-template-rows: 66% 34%;
     align-items: center;
     justify-content: center;
     position: relative;
