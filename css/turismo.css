@@ -140,7 +140,8 @@ nav a:hover::after {
 }
 
 .paraiba{
-    display: flex;
+    display: grid;
+    grid-template-columns: 60% 40%;
     align-items: center;
     justify-content: center;
     position: relative;
