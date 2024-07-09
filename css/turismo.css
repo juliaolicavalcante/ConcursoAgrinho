@@ -146,8 +146,8 @@ nav a:hover::after {
     justify-content: center;
     background-color: #428287;
     padding: 15px;      
-    margin: 10px
-
+    margin: 10px;
+    border-radius: 20px;
 }
 
 .gravata{
@@ -157,5 +157,6 @@ nav a:hover::after {
     justify-content: center;
     background-color: #428287;
     padding: 15px;      
-    margin: 10px
+    margin: 10px;
+    border-radius: 20px;
 }
