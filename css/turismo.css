@@ -140,10 +140,21 @@ nav a:hover::after {
 }
 
 .paraiba{
-    margin: 20px;
-    background-image: url(/img/paraiba.webp);
-    padding: 10px;
-    background-position: center;
-    opacity: 0.4;
-    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    width: 100%;
+    position: relative;
 }
+
+.paraiba::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url("preview.jpg");
+    background-size: cover;
+    background-position: bottom;
+    z-index: -1;
+    opacity: 0.5;
+  }
