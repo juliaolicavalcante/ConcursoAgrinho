@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -139,19 +139,34 @@ nav a:hover::after {
     font-size: 20px;
 }
 
-.turismo-inteiro{
-    display: flex;
+.paraiba {
+    display: grid;
+    grid-template-rows: 60% 40%;
     align-items: center;
-    flex-direction: column;
     justify-content: center;
-    background-image: url(/img/image\ 5.png);
+    background-image: url(/img/paraiba.webp);
     background-position: center;
-    background-repeat: no-repeat;
-    padding: 15px;      
+    background-size: cover;
+    padding: 15px;
     margin: 10px;
     border-radius: 20px;
 }
 
-.turismo-inteiro p{
+.paraiba p {
+    margin: 10px 0;
+}
+
+.gravata {
+    display: grid;
+    grid-template-rows: 67% 33%;
+    align-items: center;
+    justify-content: center;
+    background-color: #428287;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.gravata p {
     margin: 10px 0;
 }
