@@ -183,6 +183,7 @@ nav a:hover::after {
     opacity: 0.5;
     inset: 0;
     z-index: -1;
+    border-radius: 20px;
 }
 
 .gravata p {
