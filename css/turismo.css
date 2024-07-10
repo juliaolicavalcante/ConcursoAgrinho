@@ -211,6 +211,7 @@ nav a:hover::after {
     inset: 0;
     z-index: -1;
     border-radius: 20px;
+    
 }
 
 .venda p {
