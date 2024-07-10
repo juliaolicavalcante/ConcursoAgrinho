@@ -146,6 +146,7 @@ nav a:hover::after {
     justify-content: center;
     background-image: url(/img/image\ 5.png);
     background-position: center;
+    background-repeat: no-repeat;
     padding: 15px;      
     margin: 10px;
     border-radius: 20px;
