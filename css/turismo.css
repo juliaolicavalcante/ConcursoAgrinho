@@ -190,3 +190,29 @@ nav a:hover::after {
 .gravata p {
     margin: 10px 0;
 }
+
+.venda {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+.venda::before {
+    content: "";
+    position: absolute;
+    background-image: url(/img/);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    inset: 0;
+    z-index: -1;
+    border-radius: 20px;
+}
+
+.venda p {
+    margin: 10px 0;
+}
