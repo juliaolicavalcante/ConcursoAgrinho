@@ -139,7 +139,7 @@ nav a:hover::after {
     font-size: 20px;
 }
 
-.paraiba{
+.turismo-inteiro{
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -150,21 +150,6 @@ nav a:hover::after {
     border-radius: 20px;
 }
 
-.paraiba p{
-    margin: 10px 0;
-}
-
-.gravata{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    background-color: #428287;
-    padding: 15px;      
-    margin: 10px;
-    border-radius: 20px;
-}
-
-.gravata p{
+.turismo-inteiro p{
     margin: 10px 0;
 }
