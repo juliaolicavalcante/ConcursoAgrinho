@@ -204,7 +204,7 @@ nav a:hover::after {
 .venda::before {
     content: "";
     position: absolute;
-    background-image: url(/img/);
+    background-image: url(/img/venda.jpg);
     background-size: cover;
     background-position: center;
     opacity: 0.5;
