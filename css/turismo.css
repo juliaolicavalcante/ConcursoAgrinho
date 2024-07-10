@@ -144,7 +144,8 @@ nav a:hover::after {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    background-color: #428287;
+    background-image: url(/img/image\ 5.png);
+    background-position: center;
     padding: 15px;      
     margin: 10px;
     border-radius: 20px;
