@@ -140,9 +140,9 @@ nav a:hover::after {
 }
 
 .paraiba{
-    display: grid;
-    grid-template-rows: 60% 40%;
+    display: flex;
     align-items: center;
+    flex-direction: column;
     justify-content: center;
     background-color: #428287;
     padding: 15px;      
