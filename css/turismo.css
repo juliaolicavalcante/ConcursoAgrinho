@@ -155,9 +155,9 @@ nav a:hover::after {
 }
 
 .gravata{
-    display: grid;
-    grid-template-rows: 67% 33%;
+    display: flex;
     align-items: center;
+    flex-direction: column;
     justify-content: center;
     background-color: #428287;
     padding: 15px;      
