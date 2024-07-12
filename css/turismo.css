@@ -248,3 +248,32 @@ nav a:hover::after {
 .copacabana p {
     margin: 10px 0;
 }
+
+.museu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+.museu::before {
+    content: "";
+    position: absolute;
+    background-image: url(/img/copacabana.webp);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    inset: 0;
+    z-index: -1;
+    border-radius: 20px;
+    
+}
+
+
+
+.museu p {
+    margin: 10px 0;
+}
