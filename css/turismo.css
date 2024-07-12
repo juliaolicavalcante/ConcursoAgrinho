@@ -139,7 +139,7 @@ nav a:hover::after {
     font-size: 20px;
 }
 
-.turismo {
+.paraiba {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -149,9 +149,10 @@ nav a:hover::after {
     position: relative;
 }
 
-.turismo::before {
+.paraiba::before {
     content: "";
     position: absolute;
+    background-image: url(/img/paraiba.webp);
     background-size: cover;
     background-position: center;
     opacity: 0.5;
@@ -160,41 +161,154 @@ nav a:hover::after {
     border-radius: 20px;
 }
 
-.turismo p {
+.paraiba p {
     font-weight: 600;
     margin: 10px 0;
 }
 
-.paraiba{
-    background-image: url(/img/paraiba\ 1.png);
-    background-size: cover;
-    background-position: center;
+.gravata {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
 }
 
-.gravata{
+.gravata::before {
+    content: "";
+    position: absolute;
     background-image: url(/img/gravata.jpg);
     background-size: cover;
     background-position: center;
+    opacity: 0.5;
+    inset: 0;
+    z-index: -1;
+    border-radius: 20px;
 }
 
-.venda{
+.gravata p {
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.venda {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+.venda::before {
+    content: "";
+    position: absolute;
     background-image: url(/img/venda.jpg);
     background-size: cover;
     background-position: center;
+    opacity: 0.5;
+    inset: 0;
+    z-index: -1;
+    border-radius: 20px;
+
 }
 
-.copacabana{
+
+
+.venda p {
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.copacabana {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+.copacabana::before {
+    content: "";
+    position: absolute;
     background-image: url(/img/copacabana.webp);
     background-size: cover;
     background-position: center;
+    opacity: 0.5;
+    inset: 0;
+    z-index: -1;
+    border-radius: 20px;
+
 }
 
-.museu{
-    background-image: url(/img/museu.jpg);    background-size: cover;
-    background-position: center;
+
+
+.copacabana p {
+    font-weight: 600;
+    margin: 10px 0;
 }
 
-.igreja{
-    background-image: url(/img/igreja.jpg);    background-size: cover;
+.museu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+.museu::before {
+    content: "";
+    position: absolute;
+    background-image: url(/img/museu.jpg);
+    background-size: cover;
     background-position: center;
+    opacity: 0.5;
+    inset: 0;
+    z-index: -1;
+    border-radius: 20px;
+
+}
+
+
+
+.museu p {
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.igreja {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+.igreja::before {
+    content: "";
+    position: absolute;
+    background-image: url(/img/igreja.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    inset: 0;
+    z-index: -1;
+    border-radius: 20px;
+
+}
+
+
+
+.igreja p {
+    font-weight: 600;
+    margin: 10px 0;
 }
