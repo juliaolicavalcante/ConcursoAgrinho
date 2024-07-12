@@ -152,7 +152,6 @@ nav a:hover::after {
 .turismo::before {
     content: "";
     position: absolute;
-    background-image: url(/img/paraiba.webp);
     background-size: cover;
     background-position: center;
     opacity: 0.5;
@@ -166,4 +165,26 @@ nav a:hover::after {
     margin: 10px 0;
 }
 
+.paraiba{
+    background-image: url(/img/paraiba\ 1.png);
+}
 
+.gravata{
+    background-image: url(/img/gravata.jpg);
+}
+
+.venda{
+    background-image: url(/img/venda.jpg);
+}
+
+.copacabana{
+    background-image: url(/img/copacabana.webp);
+}
+
+.museu{
+    background-image: url(/img/museu.jpg);
+}
+
+.igreja{
+    background-image: url(/img/igreja.jpg);
+}
