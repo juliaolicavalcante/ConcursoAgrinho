@@ -189,7 +189,8 @@ nav a:hover::after {
 }
 
 .gravata p {
-    font-weight: 600;    margin: 10px 0;
+    font-weight: 600;
+    margin: 10px 0;
 }
 
 .venda {
@@ -212,13 +213,14 @@ nav a:hover::after {
     inset: 0;
     z-index: -1;
     border-radius: 20px;
-    
+
 }
 
 
 
 .venda p {
-    font-weight: 600;    margin: 10px 0;
+    font-weight: 600;
+    margin: 10px 0;
 }
 
 .copacabana {
@@ -241,13 +243,14 @@ nav a:hover::after {
     inset: 0;
     z-index: -1;
     border-radius: 20px;
-    
+
 }
 
 
 
 .copacabana p {
-    font-weight: 600;    margin: 10px 0;
+    font-weight: 600;
+    margin: 10px 0;
 }
 
 .museu {
@@ -270,13 +273,14 @@ nav a:hover::after {
     inset: 0;
     z-index: -1;
     border-radius: 20px;
-    
+
 }
 
 
 
 .museu p {
-    font-weight: 600;    margin: 10px 0;
+    font-weight: 600;
+    margin: 10px 0;
 }
 
 .igreja {
@@ -299,7 +303,7 @@ nav a:hover::after {
     inset: 0;
     z-index: -1;
     border-radius: 20px;
-    
+
 }
 
 
