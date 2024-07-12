@@ -262,7 +262,7 @@ nav a:hover::after {
 .museu::before {
     content: "";
     position: absolute;
-    background-image: url(/img/copacabana.webp);
+    background-image: url(/img/museu.jpg);
     background-size: cover;
     background-position: center;
     opacity: 0.5;
