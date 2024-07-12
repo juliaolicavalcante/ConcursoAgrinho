@@ -291,7 +291,7 @@ nav a:hover::after {
 .igreja::before {
     content: "";
     position: absolute;
-    background-image: url(/img/museu.jpg);
+    background-image: url(/img/igreja.webp);
     background-size: cover;
     background-position: center;
     opacity: 0.5;
