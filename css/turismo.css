@@ -167,24 +167,34 @@ nav a:hover::after {
 
 .paraiba{
     background-image: url(/img/paraiba\ 1.png);
+    background-size: cover;
+    background-position: center;
 }
 
 .gravata{
     background-image: url(/img/gravata.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .venda{
     background-image: url(/img/venda.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .copacabana{
     background-image: url(/img/copacabana.webp);
+    background-size: cover;
+    background-position: center;
 }
 
 .museu{
-    background-image: url(/img/museu.jpg);
+    background-image: url(/img/museu.jpg);    background-size: cover;
+    background-position: center;
 }
 
 .igreja{
-    background-image: url(/img/igreja.jpg);
+    background-image: url(/img/igreja.jpg);    background-size: cover;
+    background-position: center;
 }
