@@ -233,7 +233,7 @@ nav a:hover::after {
 .copacabana::before {
     content: "";
     position: absolute;
-    background-image: url(/img/venda.jpg);
+    background-image: url(/img/copacabana.webp);
     background-size: cover;
     background-position: center;
     opacity: 0.5;
