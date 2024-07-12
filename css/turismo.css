@@ -214,6 +214,37 @@ nav a:hover::after {
     
 }
 
+
+
 .venda p {
+    margin: 10px 0;
+}
+
+.copacabana {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+.copacabana::before {
+    content: "";
+    position: absolute;
+    background-image: url(/img/venda.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    inset: 0;
+    z-index: -1;
+    border-radius: 20px;
+    
+}
+
+
+
+.copacabana p {
     margin: 10px 0;
 }
