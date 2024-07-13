@@ -147,3 +147,7 @@ nav a:hover::after {
 .titulo-sustentabilidade{
     text-align: center;
 }
+
+.texto-sustentabilidade{
+    margin: 15px;
+}
