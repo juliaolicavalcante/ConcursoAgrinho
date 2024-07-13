@@ -153,4 +153,5 @@ nav a:hover::after {
 
 .texto-sustentabilidade{
     margin: 15px;
+    text-align: justify;
 }
