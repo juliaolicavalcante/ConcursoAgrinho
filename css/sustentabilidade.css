@@ -140,7 +140,9 @@ nav a:hover::after {
 }
 
 .img-sustentabilidade img{
-    width: 100%;
+    display: flex;
+    width: 97%;
+    align-items: center;
     margin: 15px;
 }
 
