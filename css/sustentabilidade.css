@@ -139,3 +139,6 @@ nav a:hover::after {
     font-size: 20px;
 }
 
+.img-sustentabilidade img{
+    width: 100%;
+}
