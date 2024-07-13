@@ -163,3 +163,8 @@ nav a:hover::after {
     margin: 15px;
     text-align: justify;
 }
+
+.img-ambiental{
+    width: 90%;
+    margin: auto;
+}
