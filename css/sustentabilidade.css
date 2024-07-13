@@ -167,4 +167,5 @@ nav a:hover::after {
 .img-ambiental img{
     width: 90%;
     margin: auto;
+    display: flex;
 }
