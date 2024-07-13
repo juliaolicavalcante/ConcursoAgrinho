@@ -147,6 +147,7 @@ nav a:hover::after {
 .img-sustentabilidade p{
     display: flex;
     flex-direction: row-reverse;
+    margin: 0 15px;
 }
 
 .titulo-sustentabilidade{
