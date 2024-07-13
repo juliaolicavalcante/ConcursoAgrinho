@@ -142,11 +142,9 @@ nav a:hover::after {
 .img-sustentabilidade img{
     width: 90%;
     margin: auto;
-    position: relative;
+    display: flex;
 }
-.img-sustentabilidade p{
-    position: absolute;
-}
+
 
 .titulo-sustentabilidade{
     text-align: center;
