@@ -164,21 +164,21 @@ nav a:hover::after {
     text-align: justify;
 }
 
-.img-ambiental img{
+.img img{
     width: 90%;
     margin: auto;
     display: flex;
 }
 
-.seçao-ambiental{
+.seçao{
     margin: 15px;
 }
 
-.seçao-ambiental p, h1,li{
+.seçao p, h1,li{
     text-align: justify;
 }
 
-.lista-ambiental{
+.lista{
     padding: 15px;
 }
 
