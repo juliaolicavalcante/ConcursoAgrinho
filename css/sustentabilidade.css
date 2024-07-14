@@ -196,3 +196,7 @@ nav a:hover::after {
     bottom: 0;
     right: 60px;
 }
+.links{
+    text-decoration: none;
+    color: #fff;
+}
