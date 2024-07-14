@@ -169,3 +169,7 @@ nav a:hover::after {
     margin: auto;
     display: flex;
 }
+
+.seçao-ambiental p, h1, li{
+    text-align: justify;
+}
