@@ -172,4 +172,5 @@ nav a:hover::after {
 
 .seçao-ambiental p, h1, li{
     text-align: justify;
+    margin: 15px;
 }
