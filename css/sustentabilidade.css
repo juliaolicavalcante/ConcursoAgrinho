@@ -174,3 +174,7 @@ nav a:hover::after {
     text-align: justify;
     margin: 15px;
 }
+
+.lista-ambiental{
+    padding: 12px;
+}
