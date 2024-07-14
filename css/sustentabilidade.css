@@ -200,3 +200,8 @@ nav a:hover::after {
     text-decoration: none;
     color: #fff;
 }
+
+.links1{
+    color: #000000;
+    text-decoration: none;
+}
