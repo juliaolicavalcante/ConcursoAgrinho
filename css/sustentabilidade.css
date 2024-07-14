@@ -199,9 +199,11 @@ nav a:hover::after {
 .links{
     text-decoration: none;
     color: #fff;
+    cursor: pointer;
 }
 
 .links1{
     color: #000000;
     text-decoration: none;
+    cursor: pointer;
 }
