@@ -170,9 +170,12 @@ nav a:hover::after {
     display: flex;
 }
 
-.seçao-ambiental p, h1, li{
-    text-align: justify;
+.seçao-ambiental{
     margin: 15px;
+}
+
+.seçao-ambiental p, h1,li{
+    text-align: justify;
 }
 
 .lista-ambiental{
