@@ -155,7 +155,8 @@ nav a:hover::after {
 }
 
 .imagem{
-    width: 100%;
+    width: 90%;
+    margin: auto;
 }
 
 .mapa{
