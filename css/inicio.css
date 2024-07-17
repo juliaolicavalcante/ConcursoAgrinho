@@ -267,4 +267,13 @@ nav a:hover::after {
     h2 {
         font-size: 32px;
     }
+
+    .texto-logo{
+        font-size: 25px;
+    }
+
+    .logo img{
+        width: 77px;
+        height: 77px;
+    }
 }
