@@ -233,6 +233,15 @@ nav a:hover::after {
         grid-template-columns: 8% 92%;
     }
 
+    .texto-logo{
+        font-size: 25px;
+    }
+
+    .logo img{
+        width: 77px;
+        height: 77px;
+    }
+
     .inicio h2 {
         font-size: 30px;
         margin: 20px 60px;
@@ -266,14 +275,5 @@ nav a:hover::after {
 
     h2 {
         font-size: 32px;
-    }
-
-    .texto-logo{
-        font-size: 25px;
-    }
-
-    .logo img{
-        width: 77px;
-        height: 77px;
     }
 }
