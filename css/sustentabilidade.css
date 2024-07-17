@@ -231,4 +231,8 @@ nav a:hover::after {
         .div-sustentabilidade{
             display: flex;
         }
+
+        .img img{
+            width: 75%;
+        }
     }
