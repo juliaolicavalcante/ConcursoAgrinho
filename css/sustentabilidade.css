@@ -238,4 +238,10 @@ nav a:hover::after {
         .img img{
             width: 75%;
         }
+
+        .img p{
+            position: absolute;
+            bottom: 0;
+            right: 133px;
+        }
     }
