@@ -154,6 +154,10 @@ nav a:hover::after {
     width: 100%;
 }
 
+.div-imagem{
+    display: flex;
+    flex-direction: column;
+}
 
 
 
