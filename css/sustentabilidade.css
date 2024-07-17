@@ -232,6 +232,9 @@ nav a:hover::after {
             display: flex;
         }
 
+        .titulo-sustentabilidade{
+            font-size: 30px;
+        }
         .img img{
             width: 75%;
         }
