@@ -154,6 +154,11 @@ nav a:hover::after {
     width: 100%;
 }
 
+.mapa{
+    width: 100%;
+    height: 200px;
+}
+
 .div-imagem{
     display: flex;
     flex-direction: column;
