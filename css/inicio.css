@@ -225,6 +225,14 @@ nav a:hover::after {
 }
 
 @media screen and (min-width: 750px) and (max-width: 1023px) {
+    
+header {
+    background-color: #184144;
+    color: #fff;
+    display: grid;
+    grid-template-columns: 8% 92%;
+}
+    
     .inicio{
         font-size: 20px;
 
