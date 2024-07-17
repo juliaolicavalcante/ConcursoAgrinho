@@ -218,12 +218,6 @@ nav a:hover::after {
             width: 77px;
             height: 77px;
         }
-        
-        .div-sustentabilidade{
-            display: flex;
-            flex-direction: row-reverse;
-
-        }
 
         .img-sustentabilidade{
             float: left;
