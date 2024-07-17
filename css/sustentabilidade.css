@@ -222,5 +222,10 @@ nav a:hover::after {
         .div-sustentabilidade{
             display: flex;
             flex-direction: row-reverse;
+
+        }
+
+        .img-sustentabilidade{
+            float: left;
         }
 }
