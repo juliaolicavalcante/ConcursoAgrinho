@@ -137,23 +137,10 @@ nav a:hover::after {
     color: #ffffff;
     font-size: 20px;
 }
-
 .img-sustentabilidade{
-    position: relative;
-    margin: 20px;
-}
-
-.img-sustentabilidade img{
     width: 90%;
     margin: auto;
-    display: flex;
 }
-.img-sustentabilidade p{
-    position: absolute;
-    bottom: 0;
-    right: 60px;
-}
-
 .titulo-sustentabilidade{
     text-align: center;
     margin: 20px;
@@ -210,5 +197,5 @@ nav a:hover::after {
 
 @media screen and (min-width: 750px) and (max-width: 1023px) {
 
-    
+
 }
