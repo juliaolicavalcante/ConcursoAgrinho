@@ -228,7 +228,7 @@ nav a:hover::after {
             font-size: 23px;
         }
 
-        .titulo-sustentabilidade{
-
+        .div-sustentabilidade{
+            display: flex;
         }
     }
