@@ -244,4 +244,8 @@ nav a:hover::after {
             bottom: 0;
             right: 133px;
         }
+
+        section{
+            margin: 30px;
+        }
     }
