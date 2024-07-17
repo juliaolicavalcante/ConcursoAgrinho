@@ -207,3 +207,8 @@ nav a:hover::after {
     text-decoration: none;
     cursor: pointer;
 }
+
+@media screen and (min-width: 750px) and (max-width: 1023px) {
+
+    
+}
