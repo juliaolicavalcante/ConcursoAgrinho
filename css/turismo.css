@@ -141,6 +141,7 @@ nav a:hover::after {
 
 
 
+
 @media screen and (min-width: 750px) and (max-width: 1023px) {
 
 .turismo{
@@ -149,6 +150,9 @@ nav a:hover::after {
     margin: 10px 5px;
 }
 
+.imagem{
+    width: 100%;
+}
 
 
 
