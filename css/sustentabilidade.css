@@ -222,10 +222,13 @@ nav a:hover::after {
         .img-sustentabilidade{
             width: 40%;
             margin: 10px;
-            float: left;
         }
 
         .texto-sustentabilidade{
             font-size: 23px;
+        }
+
+        .titulo-sustentabilidade{
+
         }
     }
