@@ -220,8 +220,8 @@ nav a:hover::after {
         }
 
         .img-sustentabilidade{
-            width: 40%;
-            margin: 10px;
+            width: 90%;
+            margin: 10px auto;
         }
 
         .texto-sustentabilidade{
