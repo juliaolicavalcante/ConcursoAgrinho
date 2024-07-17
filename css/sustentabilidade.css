@@ -224,4 +224,8 @@ nav a:hover::after {
             margin: 10px;
             float: left;
         }
+
+        .texto-sustentabilidade{
+            font-size: 23px;
+        }
     }
