@@ -252,4 +252,8 @@ nav a:hover::after {
         .seçao{
             margin: 50px;
         }
+
+        p, li {
+            font-size: 23px;
+        }
     }
