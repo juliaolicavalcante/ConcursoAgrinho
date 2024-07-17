@@ -219,8 +219,7 @@ nav a:hover::after {
             height: 77px;
         }
 
-        .img-sustentabilidade{
-            float: left;
+        .img-sustentabilidade img{
             width: 30%;
         }
 }
