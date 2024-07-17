@@ -250,6 +250,8 @@ header {
     .textos{
         margin-bottom: 30px;
     }
-
+    p{
+        font-size: 20px;
+    }
 }
 
