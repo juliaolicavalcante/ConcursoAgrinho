@@ -139,7 +139,12 @@ nav a:hover::after {
     font-size: 20px;
 }
 
-
+.linha {
+    width: 75%;
+    border-bottom: 2px solid #000000;
+    margin: auto;
+    padding-top: 20px;
+}
 
 
 @media screen and (min-width: 750px) and (max-width: 1023px) {
@@ -175,6 +180,8 @@ nav a:hover::after {
     font-size: 22px;
     margin-bottom: 10px;
 }
+
+
 
 
 }
