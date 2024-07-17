@@ -263,4 +263,9 @@ nav a:hover::after {
         h1{
             font-size: 28px;
         }
+        .fonte{
+            display: flex;
+            justify-content: space-around;
+            font-size: 16px;
+        }
     }
