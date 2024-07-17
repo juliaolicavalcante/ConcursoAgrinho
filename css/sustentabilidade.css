@@ -246,6 +246,10 @@ nav a:hover::after {
         }
 
         section{
-            margin: 30px;
+            margin: 50px;
+        }
+
+        .seçao{
+            margin: 50px;
         }
     }
