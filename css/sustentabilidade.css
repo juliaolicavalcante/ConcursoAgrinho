@@ -266,6 +266,6 @@ nav a:hover::after {
         .fonte{
             display: flex;
             justify-content: space-around;
-            font-size: 15fpx;
+            font-size: 15px;
         }
     }
