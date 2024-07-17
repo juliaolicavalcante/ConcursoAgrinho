@@ -150,6 +150,10 @@ nav a:hover::after {
     margin: 15px;
 }
 
+.turismo div{
+    margin: 15px;
+}
+
 .imagem{
     width: 100%;
 }
