@@ -256,4 +256,11 @@ nav a:hover::after {
         p, li {
             font-size: 23px;
         }
+        .exemplos{
+            font-size: 23px;
+
+        }
+        h1{
+            font-size: 28px;
+        }
     }
