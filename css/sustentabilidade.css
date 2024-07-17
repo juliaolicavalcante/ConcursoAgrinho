@@ -221,5 +221,6 @@ nav a:hover::after {
 
         .img-sustentabilidade{
             float: left;
+            width: 30%;
         }
 }
