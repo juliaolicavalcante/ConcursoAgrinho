@@ -275,7 +275,7 @@ nav a:hover::after {
         background-color: #184144;
         color: #fff;
         display: grid;
-        grid-template-columns: 3% 97%;
+        grid-template-columns: 5% 95%;
     }
 
     .texto-logo{
