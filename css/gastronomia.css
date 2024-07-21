@@ -137,3 +137,191 @@ nav a:hover::after {
     color: #ffffff;
     font-size: 20px;
 }
+
+
+.fotos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin: 0 50px;
+}
+
+
+.flip {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    transition: all 1s ease;
+    transform-style: preserve-3d;
+}
+
+.frente,
+.tras {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.frente {
+    z-index: 2;
+    backface-visibility: hidden;
+}
+
+.tras {
+    backface-visibility: hidden;
+    background-color: #757575;
+    z-index: 1;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.tras p {
+    text-align: center;
+}
+
+.container:hover .flip {
+    transform: rotateY(180deg);
+}
+
+.container {
+    position: relative;
+    margin: 5px;
+    height: 300px;
+    width: 300px;
+}
+.pamonha{
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/Pamonha.jpg);
+}
+
+.pao{
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/pao.webp);
+}
+
+.feijao {
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/feijao.webp);
+}
+
+.italiana {
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/italiana.jpg);
+}
+
+.japonesa{
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/japonesa.jpg);
+}
+
+.arabe {
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/arabe.png);
+}
+
+
+@media screen and (min-width: 750px) and (max-width: 1023px) {
+    .fotos {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+
+    p,
+    li {
+        text-align: justify;
+        font-size: 23px;
+    }
+
+    ul {
+        padding: 0 50px;
+    }
+
+    .definiçao {
+        margin: 0 50px;
+    }
+
+    h2 {
+        margin: 10px 50px;
+        font-size: 28px;
+    }
+
+    .caracteristicas {
+        margin: 0 50px 5px 50px;
+    }
+
+    h1 {
+        text-align: center;
+        margin: 20px 0;
+        font-size: 32px;
+    }
+}
+@media screen and (min-width: 1024px) {
+    header {
+        background-color: #184144;
+        color: #fff;
+        display: grid;
+        grid-template-columns: 3% 97%;
+    }
+
+    .texto-logo{
+        font-size: 32px;
+    }
+
+    .logo img{
+        width: 88px;
+        height: 88px;
+    }
+.fotos {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+
+    p,
+    li {
+        text-align: justify;
+        font-size: 23px;
+    }
+
+    ul {
+        padding: 0 50px 0 75px;
+    }
+
+    .definiçao {
+        margin: 0 50px;
+    }
+
+    h2 {
+        margin: 30px 50px 20px;
+        font-size: 28px;
+    }
+
+    .caracteristicas {
+        margin: 0 50px 5px 50px;
+    }
+
+    h1 {
+        text-align: center;
+        margin: 20px 0;
+        font-size: 32px;
+    }
+    .flip{
+        margin: 30px;
+    }
+}

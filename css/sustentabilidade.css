@@ -137,135 +137,218 @@ nav a:hover::after {
     color: #ffffff;
     font-size: 20px;
 }
-.img-sustentabilidade{
+
+.img-sustentabilidade {
     width: 90%;
     margin: auto;
     display: flex;
 }
 
-.fonte{
+.fonte {
     display: flex;
     justify-content: space-around;
 }
 
-.titulo-sustentabilidade{
+.titulo-sustentabilidade {
     text-align: center;
     margin: 20px;
 }
 
-.texto-sustentabilidade{
+.texto-sustentabilidade {
     margin: 15px;
     text-align: justify;
 }
 
-.img img{
+.img img {
     width: 90%;
     margin: auto;
     display: flex;
 }
 
-.seçao{
+.seçao {
     margin: 15px;
 }
 
-.seçao p, h1,li{
+.seçao p,
+h1,
+li {
     text-align: justify;
 }
 
-.lista{
+.lista {
     padding: 15px 15px 15px 25px;
 }
 
-.exemplos{
+.exemplos {
     font-size: 18px;
     margin: 15px 0 0 0;
 }
 
-.img{
+.img {
     position: relative;
 }
 
-.img p{
+.img p {
     position: absolute;
     bottom: 0;
     right: 60px;
 }
-.links{
+
+.links {
     text-decoration: none;
     color: #fff;
     cursor: pointer;
 }
 
-.links1{
+.links1 {
     color: #000000;
     text-decoration: none;
     cursor: pointer;
 }
 
 @media screen and (min-width: 750px) and (max-width: 1023px) {
-        header {
-            background-color: #184144;
-            color: #fff;
-            display: grid;
-            grid-template-columns: 8% 92%;
-        }
-    
-        .texto-logo{
-            font-size: 25px;
-        }
-    
-        .logo img{
-            width: 77px;
-            height: 77px;
-        }
-
-        .img-sustentabilidade{
-            width: 90%;
-            margin: 10px auto;
-        }
-
-        .texto-sustentabilidade{
-            font-size: 23px;
-        }
-
-        .div-sustentabilidade{
-            display: flex;
-        }
-
-        .titulo-sustentabilidade{
-            font-size: 30px;
-        }
-        .img img{
-            width: 60%;
-        }
-
-        .img p{
-            position: absolute;
-            bottom: 0;
-            right: 200px;
-        }
-
-        section{
-            margin:0 50px 50px 50px;
-        }
-
-        .seçao{
-            margin: 50px;
-        }
-
-        p, li {
-            font-size: 23px;
-        }
-        .exemplos{
-            font-size: 23px;
-
-        }
-        h1{
-            font-size: 28px;
-        }
-        .fonte{
-            display: flex;
-            justify-content: space-around;
-            font-size: 15px;
-        }
+    header {
+        background-color: #184144;
+        color: #fff;
+        display: grid;
+        grid-template-columns: 8% 92%;
     }
+
+    .texto-logo {
+        font-size: 25px;
+    }
+
+    .logo img {
+        width: 77px;
+        height: 77px;
+    }
+
+    .img-sustentabilidade {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    .texto-sustentabilidade {
+        font-size: 23px;
+    }
+
+    .div-sustentabilidade {
+        display: flex;
+    }
+
+    .titulo-sustentabilidade {
+        font-size: 30px;
+    }
+
+    .img img {
+        width: 60%;
+    }
+
+    .img p {
+        position: absolute;
+        bottom: 0;
+        right: 200px;
+    }
+
+    section {
+        margin: 0 50px 50px 50px;
+    }
+
+    .seçao {
+        margin: 50px;
+    }
+
+    p,
+    li {
+        font-size: 23px;
+    }
+
+    .exemplos {
+        font-size: 23px;
+
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    .fonte {
+        display: flex;
+        justify-content: space-around;
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    header {
+        background-color: #184144;
+        color: #fff;
+        display: grid;
+        grid-template-columns: 3% 97%;
+    }
+
+    .texto-logo {
+        font-size: 32px;
+    }
+
+    .logo img {
+        width: 88px;
+        height: 88px;
+    }
+
+    .img-sustentabilidade {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    .texto-sustentabilidade {
+        font-size: 28px;
+    }
+
+    .div-sustentabilidade {
+        display: flex;
+    }
+
+    .titulo-sustentabilidade {
+        font-size: 35px;
+    }
+
+    .img img {
+        width: 70%;
+    }
+
+    .img p {
+        position: absolute;
+        bottom: 0;
+        right: 300px;
+    }
+
+    section {
+        margin: 0 50px 50px 50px;
+    }
+
+    .seçao {
+        margin: 50px;
+    }
+
+    p,
+    li {
+        font-size: 28px;
+    }
+
+    .exemplos {
+        font-size: 28px;
+
+    }
+
+    h1 {
+        font-size: 33px;
+    }
+
+    .fonte {
+        display: flex;
+        justify-content: space-around;
+        font-size: 20px;
+    }
+
+}

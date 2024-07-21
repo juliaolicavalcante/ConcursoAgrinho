@@ -145,42 +145,121 @@ nav a:hover::after {
     margin: auto;
 }
 
+.mapa {
+    width: 70%;
+    height: 40%;
+    margin: 15px auto;
+    display: flex;
+    align-items: center;
+}
+
+section {
+    margin: 25px;
+}
 
 @media screen and (min-width: 750px) and (max-width: 1023px) {
 
-.turismo{
-    display: grid;
-    grid-template-columns: 60% 40%;
-    margin: 15px;
+    .turismo {
+        display: grid;
+        grid-template-columns: 60% 40%;
+        margin: 15px;
+    }
+
+    .turismo div {
+        margin: 15px;
+    }
+
+    .imagem {
+        width: 90%;
+        margin: auto;
+    }
+
+    .mapa {
+        width: 100%;
+        height: 200px;
+    }
+
+    .div-imagem {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .turismo p {
+        font-size: 22px;
+        margin-bottom: 10px;
+        text-align: justify;
+    }
 }
 
-.turismo div{
-    margin: 15px;
-}
+@media screen and (min-width: 1024px) {
+    header {
+        background-color: #184144;
+        color: #fff;
+        display: grid;
+        grid-template-columns: 3% 97%;
+    }
 
-.imagem{
-    width: 90%;
-    margin: auto;
-}
+    .texto-logo{
+        font-size: 32px;
+    }
 
-.mapa{
-    width: 100%;
-    height: 200px;
-}
+    .logo img{
+        width: 88px;
+        height: 88px;
+    }
 
-.div-imagem{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
+    .turismo {
+        display: grid;
+        grid-template-columns: 70% 30%;
+        margin: 15px;
+    }
 
-.turismo p{
-    font-size: 22px;
-    margin-bottom: 10px;
-}
+    .turismo div {
+        margin: 25px;
+    }
 
+    .imagem {
+        width: 90%;
+        margin: auto;
+    }
 
+    .mapa {
+        width: 100%;
+        height: 200px;
+    }
 
+    .div-imagem {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
 
+    .turismo p {
+        font-size: 28px;
+        margin-bottom: 10px;
+        text-align: justify;
+    }
+
+    .turismo h2 {
+        font-size: 35px;
+    }
+
+    header {
+        background-color: #184144;
+        color: #fff;
+        display: grid;
+        grid-template-columns: 3% 97%;
+    }
+
+    .texto-logo {
+        font-size: 32px;
+    }
+
+    .logo img {
+        width: 88px;
+        height: 88px;
+    }
 }

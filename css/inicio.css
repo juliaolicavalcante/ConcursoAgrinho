@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
-@import url(/css/turismo.css);
+
 
 * {
     margin: 0;
@@ -276,4 +276,57 @@ nav a:hover::after {
     h2 {
         font-size: 32px;
     }
+}
+@media screen and (min-width: 1024px){
+    header {
+        background-color: #184144;
+        color: #fff;
+        display: grid;
+        grid-template-columns: 3% 97%;
+    }
+
+    .texto-logo{
+        font-size: 32px;
+    }
+
+    .logo img{
+        width: 88px;
+        height: 88px;
+    }
+
+    .inicio h2 {
+        font-size: 36px;
+        margin: 20px 80px;
+    }
+
+    .card img {
+        width: 250px;
+        margin: auto;
+    }
+
+    .terceiro {
+        margin-bottom: 50px;
+    }
+
+    .textos {
+        margin-bottom: 30px;
+    }
+
+    p {
+        font-size: 25px;
+    }
+
+    .exodo h3, .titulo-consequencia, .urbanizaçao h3{
+        font-size: 32px;
+
+    }
+
+    h4 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
 }
