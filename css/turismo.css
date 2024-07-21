@@ -247,19 +247,4 @@ section {
         font-size: 35px;
     }
 
-    header {
-        background-color: #184144;
-        color: #fff;
-        display: grid;
-        grid-template-columns: 3% 97%;
-    }
-
-    .texto-logo {
-        font-size: 32px;
-    }
-
-    .logo img {
-        width: 88px;
-        height: 88px;
-    }
 }
