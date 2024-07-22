@@ -161,7 +161,6 @@ section {
 
     .turismo {
         display: grid;
-        grid-template-columns: 60% 40%;
         margin: 15px;
     }
 
