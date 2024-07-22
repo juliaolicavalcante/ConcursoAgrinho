@@ -283,6 +283,12 @@ nav a:hover::after {
         margin: 20px 0;
         font-size: 32px;
     }
+
+    .imagem-clique{
+        color: #828282;
+        margin-left: 30px;
+        
+    }
 }
 
 @media screen and (min-width: 1024px) {
