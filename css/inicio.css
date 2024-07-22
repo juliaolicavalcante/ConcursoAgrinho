@@ -309,7 +309,10 @@ nav a:hover::after {
         margin-bottom: 50px;
         margin: 20px;
     }
-
+    .texto-rural {
+        text-align: justify;
+        margin: 15px 20px;
+    }
     .textos {
         margin-bottom: 30px;
         margin: 20px;
