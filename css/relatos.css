@@ -299,4 +299,9 @@ nav a:hover::after {
         color: #fff;
     }
 
+    .segunda h1{
+        font-size: 25px;
+        text-align: center;
+    }
+
 }
