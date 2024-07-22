@@ -291,7 +291,7 @@ nav a:hover::after {
 
     .primeira li{
         font-size: 20px;
-       margin: 75px;
+       margin: 0 75px;
     }
     .segunda {
         background-color: #00757C;
