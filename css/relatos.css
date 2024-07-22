@@ -288,6 +288,11 @@ nav a:hover::after {
         padding: 0 30px 30px 30px;
         font-size: 26px;
     }
+
+    .primeira li{
+        font-size: 20px;
+        text-align: center;
+    }
     .segunda {
         background-color: #00757C;
         padding: 50px 0;
