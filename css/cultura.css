@@ -232,6 +232,12 @@ nav a:hover::after {
     background-image: url(/img/tecnologia.webp);
 }
 
+
+.cultura-rural{
+    color: #828282;
+    
+}
+
 @media screen and (min-width: 750px) and (max-width: 1023px) {
     .fotos {
         display: flex;
