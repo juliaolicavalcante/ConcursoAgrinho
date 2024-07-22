@@ -302,6 +302,7 @@ nav a:hover::after {
     .segunda h1{
         font-size: 25px;
         text-align: center;
+        margin-bottom: 15px;
     }
 
 }
