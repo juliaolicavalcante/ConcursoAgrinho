@@ -316,8 +316,7 @@ nav a:hover::after {
     }
 
     .textos {
-        margin-bottom: 30px;
-        margin: 20px;
+margin: 0 20px 30px 20px;
     }
 
     .texto-exodo {
