@@ -307,10 +307,12 @@ nav a:hover::after {
 
     .terceiro {
         margin-bottom: 50px;
+        margin: 20px;
     }
 
     .textos {
         margin-bottom: 30px;
+        margin: 20px;
     }
 
     p {
