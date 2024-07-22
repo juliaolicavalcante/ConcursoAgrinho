@@ -345,4 +345,10 @@ nav a:hover::after {
     .flip{
         margin: 30px;
     }
+
+    .imagem-clique{
+        color: #828282;
+        margin-left: 50px;
+        
+    }
 }
