@@ -233,11 +233,11 @@ nav a:hover::after {
         grid-template-columns: 8% 92%;
     }
 
-    .texto-logo{
+    .texto-logo {
         font-size: 25px;
     }
 
-    .logo img{
+    .logo img {
         width: 77px;
         height: 77px;
     }
@@ -277,7 +277,8 @@ nav a:hover::after {
         font-size: 32px;
     }
 }
-@media screen and (min-width: 1024px){
+
+@media screen and (min-width: 1024px) {
     header {
         background-color: #184144;
         color: #fff;
@@ -285,11 +286,11 @@ nav a:hover::after {
         grid-template-columns: 5% 95%;
     }
 
-    .texto-logo{
+    .texto-logo {
         font-size: 32px;
     }
 
-    .logo img{
+    .logo img {
         width: 88px;
         height: 88px;
     }
@@ -314,19 +315,25 @@ nav a:hover::after {
 
     p {
         font-size: 25px;
+        margin: 20px;
     }
 
-    .exodo h3, .titulo-consequencia, .urbanizaçao h3{
+    .exodo h3,
+    .titulo-consequencia,
+    .urbanizaçao h3 {
         font-size: 32px;
+        margin: 20px;
 
     }
 
     h4 {
         font-size: 28px;
+        margin: 20px;
     }
 
     h2 {
         font-size: 40px;
+        margin: 20px;
     }
 
 }
