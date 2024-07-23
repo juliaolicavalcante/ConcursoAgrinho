@@ -251,7 +251,25 @@ nav a:hover::after {
 .rural h1, h2, p{
     margin-left: 15px;
 }
+footer{
+    background-color: #184144;
+    color: #FFFF;
+    padding: 3rem 0 3rem 8rem;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    align-items: center;
+}
 
+.footer-link{
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+    margin:  0 30px ;
+}
+
+.criadora{
+    font-size: 20px;
+}
 @media screen and (min-width: 750px) and (max-width: 1023px) {
     .fotos {
         display: flex;
