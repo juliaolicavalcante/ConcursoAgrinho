@@ -211,7 +211,7 @@ footer{
     }
 
     footer{
-        grid-template-columns: 60% 40%;
+        grid-template-columns:  30% 70%;
     }
 }
 
