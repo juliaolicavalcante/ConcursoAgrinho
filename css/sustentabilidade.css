@@ -299,6 +299,9 @@ footer{
         justify-content: space-around;
         font-size: 15px;
     }
+    footer{
+        grid-template-columns: 60% 40%;
+    }
 }
 
 @media screen and (min-width: 1024px) {
