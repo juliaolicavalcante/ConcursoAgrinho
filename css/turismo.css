@@ -266,6 +266,8 @@ footer{
 
     .turismo h2 {
         font-size: 35px;
+    }    footer{
+        grid-template-columns:  40% 60%;
     }
 
 }

@@ -367,5 +367,7 @@ footer{
         font-size: 40px;
         margin: 20px;
     }
-
+    footer{
+        grid-template-columns:  40% 60%;
+    }
 }

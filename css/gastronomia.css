@@ -376,4 +376,7 @@ footer{
         margin-left: 50px;
         
     }
+    footer{
+        grid-template-columns:  40% 60%;
+    }
 }

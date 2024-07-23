@@ -329,5 +329,7 @@ footer{
         text-align: center;
         margin-bottom: 15px;
     }
-
+    footer{
+        grid-template-columns:  40% 60%;
+    }
 }
