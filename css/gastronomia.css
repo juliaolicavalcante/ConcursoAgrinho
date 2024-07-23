@@ -256,10 +256,9 @@ footer{
     color: #FFFF;
     padding:20px 10px;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 70% 30%;
     align-items: center;
 }
-
 
 .footer-link{
     text-decoration: none;
