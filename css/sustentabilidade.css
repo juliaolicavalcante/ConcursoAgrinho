@@ -232,6 +232,10 @@ footer{
 .seçao .titulo{
     margin-top: 10px;
 }
+
+    .lista-rodape{
+        font-variant: all-small-caps;
+    }
 @media screen and (min-width: 750px) and (max-width: 1023px) {
     header {
         background-color: #184144;
