@@ -80,7 +80,7 @@ header {
     margin-left: -300px;
     padding-bottom: 20px;
     transition: all ease 0.2s;
-    border-bottom-right-radius: 20px ;
+    border-bottom-right-radius: 20px;
 }
 
 .menu .menu-botao:checked~ul {
@@ -197,7 +197,7 @@ li {
 
 .links {
     cursor: pointer;
-    color: #000000;    
+    color: #000000;
 }
 
 .links1 {
@@ -205,10 +205,11 @@ li {
     text-decoration: none;
     cursor: pointer;
 }
-footer{
+
+footer {
     background-color: #184144;
     color: #FFFF;
-    padding:20px 10px;
+    padding: 20px 10px;
     display: grid;
     grid-template-columns: 70% 30%;
     align-items: center;
@@ -217,19 +218,20 @@ footer{
 
 
 
-.footer-link{
+.footer-link {
     text-decoration: none;
     color: white;
     font-size: 28px;
-    margin:  0 30px ;
+    margin: 0 30px;
 }
 
 
-.criadora{
+.criadora {
     font-size: 20px;
     padding: 20px;
 }
-.seçao .titulo{
+
+.seçao .titulo {
     margin-top: 10px;
 }
 
@@ -305,7 +307,12 @@ footer{
         justify-content: space-around;
         font-size: 15px;
     }
-    footer{
+
+    .lista-rodape {
+        display: flex;
+    }
+
+    footer {
         grid-template-columns: 30% 70%;
     }
 }
@@ -382,7 +389,12 @@ footer{
         justify-content: space-around;
         font-size: 20px;
     }
-    footer{
-        grid-template-columns:  40% 60%;
+
+    .lista-rodape {
+        display: flex;
+    }
+
+    footer {
+        grid-template-columns: 40% 60%;
     }
 }
