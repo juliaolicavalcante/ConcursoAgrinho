@@ -271,7 +271,7 @@ footer{
     .img p {
         position: absolute;
         bottom: -25px;
-        left: 0;
+        left: 20%;
     }
 
     section {
