@@ -257,7 +257,8 @@ footer{
     }
 
     .div-sustentabilidade {
-        display: flex;
+        display: grid;
+        grid-template-columns: 50% 50%;
     }
 
     .titulo-sustentabilidade {
@@ -333,7 +334,8 @@ footer{
     }
 
     .div-sustentabilidade {
-        display: flex;
+        display: grid;
+        grid-template-columns: 40% 60%;
     }
 
     .titulo-sustentabilidade {
