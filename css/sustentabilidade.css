@@ -189,12 +189,13 @@ li {
 }
 
 .img p {
-    margin: 0 40px;
+    position: absolute;
+    bottom: -25px;
+    left: 0;
 }
 
 .links {
     text-decoration: none;
-    color: #000000;
     cursor: pointer;
 }
 
@@ -265,7 +266,9 @@ footer{
     }
 
     .img p {
-        margin: 0 50px;
+        position: absolute;
+        bottom: 0;
+        right: 200px;
     }
 
     section {
@@ -339,7 +342,9 @@ footer{
     }
 
     .img p {
-        margin: 0 50px;
+        position: absolute;
+        bottom: 0;
+        right: 300px;
     }
 
     section {
