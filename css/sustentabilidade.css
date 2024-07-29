@@ -191,7 +191,7 @@ li {
 .img p {
     position: absolute;
     bottom: -25px;
-    left: 0;
+    left: 5%;
 }
 
 .links {
@@ -226,6 +226,9 @@ footer{
 .criadora{
     font-size: 20px;
     padding: 20px;
+}
+.seçao .titulo{
+    margin-top: 10px;
 }
 @media screen and (min-width: 750px) and (max-width: 1023px) {
     header {
