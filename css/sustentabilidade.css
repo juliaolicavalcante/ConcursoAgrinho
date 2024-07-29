@@ -77,8 +77,9 @@ header {
     padding: 0;
     padding-top: 100px;
     background-color: #3a787c;
-    transition: all ease 0.2s;
+    margin-left: -300px;
     padding-bottom: 20px;
+    transition: all ease 0.2s;
     border-bottom-right-radius: 20px ;
 }
 
