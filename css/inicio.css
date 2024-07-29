@@ -175,7 +175,7 @@ nav a:hover::after {
     color: aqua;
     font-size: 10px;
     position: absolute;
-    bottom: 0;
+    bottom: -25px;
     font-size: 9px;
     right: 0;
 }
