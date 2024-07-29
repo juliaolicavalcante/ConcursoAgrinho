@@ -166,6 +166,7 @@ nav a:hover::after {
     justify-content: center;
     align-items: center;
     position: absolute;
+    border-radius: 50px;
 }
 
 .frente {
