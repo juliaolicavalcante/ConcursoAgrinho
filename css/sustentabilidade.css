@@ -236,16 +236,7 @@ footer{
     .bi::before, [class*=" bi-"]::before, [class^=bi-]::before {
         font-variant: all-small-caps;
     }
-    .bi-instagram{
-        font-variant: all-small-caps;
-    }
-    .bi-envelope-at{
-        font-variant: all-small-caps;
-    }
-
-    .bi-facebook{
-        font-variant: all-small-caps;
-    }
+    
 @media screen and (min-width: 750px) and (max-width: 1023px) {
     header {
         background-color: #184144;
