@@ -150,6 +150,7 @@ nav a:hover::after {
     align-items: center;
     justify-content: center;
     justify-content: space-evenly;
+    margin: 0 10px;
 }
 
 
