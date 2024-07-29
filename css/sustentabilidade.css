@@ -194,6 +194,7 @@ li {
 
 .links {
     text-decoration: none;
+    color: #000000;
     cursor: pointer;
 }
 
