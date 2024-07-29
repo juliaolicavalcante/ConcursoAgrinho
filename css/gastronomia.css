@@ -169,6 +169,10 @@ nav a:hover::after {
     border-radius: 50px;
 }
 
+a{
+    color: #000000;
+}
+
 .frente {
     z-index: 2;
     backface-visibility: hidden;
