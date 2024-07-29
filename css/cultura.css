@@ -198,6 +198,10 @@ nav a:hover::after {
     width: 300px;
 }
 
+a{
+    color: #252525;
+}
+
 .festa {
     background-size: cover;
     background-position: center;
