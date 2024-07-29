@@ -155,10 +155,10 @@ nav a:hover::after {
 
 .col {
     margin: 10px;
+    position: relative;
 }
 
 .card {
-    position: relative;
     padding: 0;
     border-radius: 20px;
     overflow: hidden;
@@ -176,7 +176,7 @@ nav a:hover::after {
     font-size: 10px;
     position: absolute;
     bottom: 0;
-    font-size: 3.5px;
+    font-size: 9px;
     right: 0;
 }
 
