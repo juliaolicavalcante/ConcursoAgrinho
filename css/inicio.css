@@ -79,11 +79,13 @@ header {
     left: 0;
     top: 0;
     width: 300px;
-    height: calc(100vh - 100px);
+    padding: 0;
     padding-top: 100px;
     background-color: #3a787c;
     margin-left: -300px;
+    padding-bottom: 20px;
     transition: all ease 0.2s;
+    border-bottom-right-radius: 20px;
 }
 
 .menu .menu-botao:checked~ul {
