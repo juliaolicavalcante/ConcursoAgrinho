@@ -177,7 +177,8 @@ nav a:hover::after {
     position: absolute;
     bottom: -25px;
     font-size: 9px;
-margin: 0 auto;}
+    margin: 0 auto;
+}
 
 .card:hover {
     box-shadow: 0 0 8px #585858;
@@ -206,7 +207,7 @@ margin: 0 auto;}
     width: 75%;
     border-bottom: 2px solid #000000;
     margin: auto;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .exodo {
@@ -222,26 +223,28 @@ margin: 0 auto;}
     margin: 15px 0 0 0;
     font-size: 18px;
 }
-footer{
+
+footer {
     background-color: #184144;
     color: #FFFF;
-    padding:20px 10px;
+    padding: 20px 10px;
     display: grid;
     grid-template-columns: 70% 30%;
     align-items: center;
 }
 
-.footer-link{
+.footer-link {
     text-decoration: none;
     color: white;
     font-size: 28px;
-    margin:  0 30px ;
+    margin: 0 30px;
 }
 
-.criadora{
+.criadora {
     font-size: 20px;
     padding: 20px;
 }
+
 @media screen and (min-width: 750px) and (max-width: 1023px) {
 
     header {
@@ -294,8 +297,9 @@ footer{
     h2 {
         font-size: 32px;
     }
-    footer{
-        grid-template-columns:  30% 70%;
+
+    footer {
+        grid-template-columns: 30% 70%;
     }
 }
 
@@ -346,7 +350,7 @@ footer{
 
     p {
         font-size: 25px;
-        margin:  0 20px 20px 20px;
+        margin: 0 20px 20px 20px;
     }
 
     .exodo h3,
@@ -366,7 +370,8 @@ footer{
         font-size: 40px;
         margin: 20px;
     }
-    footer{
-        grid-template-columns:  40% 60%;
+
+    footer {
+        grid-template-columns: 40% 60%;
     }
 }
