@@ -228,6 +228,10 @@ footer{
     font-size: 20px;
     padding: 20px;
 }
+
+.anonimo{
+    text-align: right;
+}
 @media screen and (min-width: 750px) and (max-width: 1023px) {
     .primeira h1 {
         font-size: 30px;
