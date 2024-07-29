@@ -79,6 +79,7 @@ header {
     background-color: #3a787c;
     margin-left: -300px;
     transition: all ease 0.2s;
+    border-bottom-right-radius: 20px ;
 }
 
 .menu .menu-botao:checked~ul {
