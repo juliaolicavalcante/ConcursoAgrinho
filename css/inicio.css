@@ -29,6 +29,11 @@ header {
     cursor: pointer;
 }
 
+
+.lista-rodape {
+    display: flex;
+    flex-wrap: wrap;
+}
 .menu-botao {
     padding: 15px 0 0 15px;
 }

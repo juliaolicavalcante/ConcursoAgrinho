@@ -33,6 +33,11 @@ header {
     padding-left: 15px;
 }
 
+.lista-rodape {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .menu .menu-linha {
     position: absolute;
     z-index: 999;
