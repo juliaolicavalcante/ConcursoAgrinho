@@ -267,8 +267,8 @@ footer{
 
     .img p {
         position: absolute;
-        bottom: 0;
-        right: 200px;
+        bottom: -25px;
+        left: 0;
     }
 
     section {
@@ -343,8 +343,8 @@ footer{
 
     .img p {
         position: absolute;
-        bottom: 0;
-        right: 300px;
+        bottom: -25px;
+        left: 0;
     }
 
     section {
