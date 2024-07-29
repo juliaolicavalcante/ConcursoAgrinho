@@ -211,9 +211,9 @@ footer {
     color: #FFFF;
     padding: 20px 10px;
     display: grid;
-    grid-template-columns: 70% 30%;
+    display: flex;
     align-items: center;
-    margin-top: 35px;
+    justify-content: center;
 }
 
 
@@ -317,9 +317,6 @@ footer {
         display: flex;
     }
 
-    footer {
-        grid-template-columns: 30% 70%;
-    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -399,7 +396,4 @@ footer {
         display: flex;
     }
 
-    footer {
-        grid-template-columns: 40% 60%;
-    }
 }

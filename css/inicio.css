@@ -235,9 +235,9 @@ footer {
     background-color: #184144;
     color: #FFFF;
     padding: 20px 10px;
-    display: grid;
-    grid-template-columns: 70% 30%;
+    display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .footer-link {
@@ -305,9 +305,7 @@ footer {
         font-size: 32px;
     }
 
-    footer {
-        grid-template-columns: 30% 70%;
-    }
+
 }
 
 @media screen and (min-width: 1024px) {
@@ -378,7 +376,5 @@ footer {
         margin: 20px;
     }
 
-    footer {
-        grid-template-columns: 40% 60%;
-    }
+
 }
