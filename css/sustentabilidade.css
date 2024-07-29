@@ -189,14 +189,11 @@ li {
 }
 
 .img p {
-    position: absolute;
-    bottom: 0;
-    right: 60px;
+    margin: 0 40px;
 }
 
 .links {
     text-decoration: none;
-    color: #fff;
     cursor: pointer;
 }
 
