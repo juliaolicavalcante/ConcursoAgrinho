@@ -233,15 +233,17 @@ footer{
     margin-top: 10px;
 }
 
-    .footer-link{
+    .bi-tiktok{
         font-variant: all-small-caps;
     }
-    .footer-link{
+    .bi-instagram{
+        font-variant: all-small-caps;
+    }
+    .bi-envelope-at{
         font-variant: all-small-caps;
     }
 
-    .bi{
-
+    .bi-facebook{
         font-variant: all-small-caps;
     }
 @media screen and (min-width: 750px) and (max-width: 1023px) {
