@@ -212,7 +212,7 @@ nav a:hover::after {
 
 .senso {
     background-size: cover;
-    background-position: center;
+    background-position: right;
     background-image: url(/img/senso.jpg);
 }
 
