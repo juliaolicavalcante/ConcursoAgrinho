@@ -233,7 +233,7 @@ footer{
     margin-top: 10px;
 }
 
-    .bi-tiktok{
+    .bi::before, [class*=" bi-"]::before, [class^=bi-]::before {
         font-variant: all-small-caps;
     }
     .bi-instagram{
