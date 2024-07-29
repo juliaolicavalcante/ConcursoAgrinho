@@ -211,6 +211,7 @@ footer{
     display: grid;
     grid-template-columns: 70% 30%;
     align-items: center;
+    margin-top: 12px;
 }
 
 
