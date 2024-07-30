@@ -336,6 +336,9 @@ footer {
         li{
             margin-right: 20px;
          }
+         .tras p{
+            font-size: 15px;
+         }
 }
 
 @media screen and (min-width: 1024px) {
@@ -400,5 +403,9 @@ footer {
 
     li{
         margin-right: 30px;
+     }
+
+     .tras p{
+        font-size: 20px;
      }
 }
