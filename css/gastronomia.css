@@ -333,6 +333,10 @@ li{
         
     }
 
+    .tras p{
+        font-size: 15px;
+    }
+
 }
 @media screen and (min-width: 1024px) {
     header {
@@ -390,6 +394,10 @@ li{
         color: #828282;
         margin-left: 50px;
         
+    }
+
+    .tras p{
+        font-size: 20px;
     }
 
 }
